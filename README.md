@@ -74,6 +74,6 @@ O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness
 
 ## 📬 Contato
 
-Enzo Koyano Pedriça - [LinkedIn]([https://www.linkedin.com/in/enzo-koyano-pedriça/])
+Enzo Koyano Pedriça - [LinkedIn](https://www.linkedin.com/in/enzo-koyano-pedriça/)
 
 
