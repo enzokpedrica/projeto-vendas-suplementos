@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo analisar as vendas semanais de suplementos alimentares entre 2020 e 2025, utilizando o **Power BI** como ferramenta principal de visualização e análise de dados. A proposta é transformar dados brutos em **insights de negócio** que apoiem a tomada de decisões estratégicas.
 
-O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness**, como a **Maxinutri**, abordando questões como tendências de vendas, impacto de descontos, retornos de produtos e desempenho por plataforma e região.
+O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness**, abordando questões como tendências de vendas, impacto de descontos, retornos de produtos e desempenho por plataforma e região.
 
 ---
 
@@ -70,5 +70,10 @@ O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness
   <img src="01-Dashboard/04-Filtro_Produto.png" width="800">
 </p>
 
+---
+
+## 📬 Contato
+
+Enzo Koyano Pedriça - [LinkedIn]([https://www.linkedin.com/in/enzo-koyano-pedriça/])
 
 
