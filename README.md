@@ -59,9 +59,15 @@ O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness
 </p>
 
 ---
-- **Filtrado com a maior venda de 2024**
+- **Maior venda de 2024**
 <p align="center">
   <img src="01-Dashboard/03-Maior_Venda_2024.png" width="800">
+</p>
+
+---
+- **Filtro por Produto Específico**
+<p align="center">
+  <img src="01-Dashboard/04-Filtro_Produto.png" width="800">
 </p>
 
 
