@@ -54,7 +54,7 @@ O cenário simula o ambiente real de uma empresa do setor de **Health & Wellness
 
 ## 🧮 Algumas imagens de como ficou o DashBoard
 <p align="center">
-  <img src="01-Dashboard/seu-arquivo.png" width="800">
+  <img src="01-Dashboard/02-Visão_Geral.png" width="800">
 </p>
 
 
