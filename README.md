@@ -1,4 +1,4 @@
-# 📊 Supplement Sales Analysis - Power BI Project
+# 📊 Análise Vendas de Suplementos
 
 ## 📚 Sobre o Projeto
 
